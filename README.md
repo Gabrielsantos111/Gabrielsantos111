@@ -4,5 +4,5 @@
 
 ## Descrição
 
-Me chamo Gabriele estou estudando programação 
+Me chamo Gabriel e estou estudando programação 
 ------------------------------------------------------------
