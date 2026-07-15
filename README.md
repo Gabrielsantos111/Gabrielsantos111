@@ -1,8 +1,3 @@
-# Nome do Projeto
+# Descrição
 
-![Licença](https://img.shields.io/badge/licença-MIT-green)
-
-## Descrição
-
-Me chamo Gabriel e estou estudando programação 
-------------------------------------------------------------
+Desenvolvedor de Software | Graduado em Ciência da Computação | Foco em Python, Integração de APIs e Automação
