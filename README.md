@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel Carvalho! ^o^
+# Olá, eu sou o Gabriel dos Santos Carvalho! (⌐■_■)
 
 **Desenvolvedor de Software | Integração de Sistemas & Automação**
 
@@ -29,9 +29,17 @@ Acredito que o melhor código é aquele que gera impacto direto e mensurável pa
     Projetos em C++ aplicados a microcontroladores, desenvolvendo lógicas de sinalização, reescrita de portas lógicas e controle de drivers de motor (L293D).
 *    **CLINIX - Gestão Odontológica (Full-Stack):**
     Sistema voltado para a área da saúde e clínicas em geral. Interface construída com HTML/CSS e regras de negócio processadas no back-end com Python (Flask), integradas a um banco de dados MySQL para gestão segura de prontuários e agendamentos.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 
- **Vamos nos conectar?** ᓚᘏᗢ
+##
 
-**E-mail:** [gabrielsantoc@gmail.com]
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dos-santos-carvalho-98abbb238)
+<a href = "mailto:gabrielsantoc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dos-santos-carvalho-98abbb238)   ᓚᘏᗢ
