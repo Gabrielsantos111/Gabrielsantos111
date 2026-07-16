@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel Carvalho!
+# Olá, eu sou o Gabriel Carvalho! ^o^
 
 **Desenvolvedor de Software | Integração de Sistemas & Automação**
 
@@ -17,7 +17,7 @@ Acredito que o melhor código é aquele que gera impacto direto e mensurável pa
 *   **Infraestrutura & Ferramentas:** Git, GitHub, Render (Cloud Hosting), Google Sheets API
 *   **Engenharia de Software:** Modelagem de requisitos (PM Canvas), documentação técnica e estruturação de banco de dados
 
- **Projetos em Destaque:**
+ **Projetos em Destaque:** 
 
 *    **API de Automação CRM para Delivery (SaaS):**
     Desenvolvimento de uma API em nuvem (Python/Flask) que intercepta webhooks de uma plataforma de vendas. O sistema calcula inteligência de estoque, gerencia cashback e atualiza painéis dinâmicos em tempo real para recuperação de clientes inativos e carrinhos abandonados.
@@ -30,6 +30,6 @@ Acredito que o melhor código é aquele que gera impacto direto e mensurável pa
 *    **CLINIX - Gestão Odontológica (Full-Stack):**
     Sistema voltado para a área da saúde e clínicas em geral. Interface construída com HTML/CSS e regras de negócio processadas no back-end com Python (Flask), integradas a um banco de dados MySQL para gestão segura de prontuários e agendamentos.
 
- **Vamos nos conectar?**
+ **Vamos nos conectar?** ᓚᘏᗢ
 *    **LinkedIn:** [www.linkedin.com/in/gabriel-dos-santos-carvalho-98abbb238]
 *    **E-mail:** [gabrielsantoc@gmail.com]
