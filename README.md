@@ -31,5 +31,6 @@ Acredito que o melhor código é aquele que gera impacto direto e mensurável pa
     Sistema voltado para a área da saúde e clínicas em geral. Interface construída com HTML/CSS e regras de negócio processadas no back-end com Python (Flask), integradas a um banco de dados MySQL para gestão segura de prontuários e agendamentos.
 
  **Vamos nos conectar?** ᓚᘏᗢ
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-dos-santos-carvalho-98abbb238)
 *    **E-mail:** [gabrielsantoc@gmail.com]
